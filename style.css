@@ -1,0 +1,133 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+.Sign_in
+{
+	width: 300px;
+	height: 440px;
+	border-style: outset;
+	background: #fff;
+	border-bottom: 1px solid #CCC;
+	margin: 0 auto;
+	margin-top: 70px;
+	outline-color: black;
+}
+.paragraph
+{	
+	position: top;
+	background: #2980b9;
+	color: white;
+	font-family: Times New Roman;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0.7px;
+	border-radius: 0.3px;
+	padding: 10px; 0px; 10px; 0px;
+}
+.input
+{
+	width: 250px;
+	height: 25px;
+	border-radius: 0.2px;
+	outline: focus;
+	border: 1px solid #333;
+	transition: 0.6s;
+	margin-left: 25px;
+	padding-left:0.5px;
+	margin-top: 10px;
+}
+button
+{
+	display: inline-block;
+	width: 250px;
+	height: 25px;
+	font-weight: bold;
+	color: white;
+	border-radius: 0.2px;
+	margin: oblique;
+	border: 1px solid #333;
+	transition: 0.6s;
+	margin-left: 25px;
+	padding-left:0.5px;
+	margin-top: 2px;
+	cursor: pointer;
+}
+.sign-btn
+{
+	background-color: #0652DD;
+	margin: center;
+}
+.for-reg
+{
+	font-size: 12px;
+	font-family: "Arial", Helvetica, sans-serif;
+	margin-right:25px;
+	margin-left: 25px;
+	padding-left:0.5px;
+	margin-top: 2px;
+}
+hr
+{
+	margin-top: 12px;
+	
+}
+.or
+{
+	background: #fff;
+	margin-left: 25px;
+	margin-right: 25px;
+	font-family: "Comic Sans";
+	width: 25px;
+	margin: -18px auto;
+}
+.f-btn
+{
+	background-color: #0652DD;
+	font-family: "Lucida Fax";
+	font-weight: bold;
+	font-size: 15px;
+	margin: center;
+}
+.g-btn
+{
+	background-color: #fc5c65;
+	font-family: "Lucida Fax";
+	font-size: 18px;
+	margin: center;
+	margin-top: 0.5px;
+}
+.ep-btn
+{
+	background-color: #e58e26;
+	font-family: "Lucida Sans";
+	font-weight: bold;
+	font-size: 14px;
+	margin: center;
+	margin-top: 10px;
+}
+.cust
+{
+	position: absolute;
+	background: #fff;
+	margin-left:250px;
+	margin-top: 18px;
+	width:12px;
+	height:2px;
+	border: 1px solid #fff;
+}
+.cust1
+{	
+	position: absolute;
+	margin-top: 14px;
+	margin-left: 40px;
+	color:white;
+}
+.cust2
+{	
+	position: absolute;
+	margin-top: 14px;
+	margin-left: 250px;
+	color:white;
+}
